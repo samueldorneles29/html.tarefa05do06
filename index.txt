@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício HTML + CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        header {
+            background-color:rgb(252, 214, 0); /* 
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            background-color:rgb(0, 9, 128); /* 
+            font-size: 20px;
+            padding: 20px;
+        }
+        .logo {
+            width: 100px;
+            float: left;
+            margin-right: 10px;
+        }
+        .imagem-grande {
+            width: 300px;
+        }
+        footer {
+            background-color:rgb(5, 94, 10); /*
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img class="logo" src="nasa-logo-01" alt="Logotipo">
+        Aqui é o cabeçalho
+    </header>
+
+    <main>
+        (conteudo) "Causas da independência do Brasil
+A independência do Brasil foi declarada em 1822 e esse acontecimento está diretamente relacionado com eventos que foram iniciados em 1808, ano em que a família real portuguesa, fugindo das tropas francesas que invadiram Portugal, mudou-se para o Brasil.
+
+A chegada da família real no Brasil ocasionou uma série de mudanças que contribuiu para o desenvolvimento comercial, econômico e, em última instância, possibilitou a independência do Brasil. Além disso, o Brasil experimentou, em seus centros, um grande desenvolvimento resultado de uma série de medidas implementadas por D. João VI, rei de Portugal.
+
+Instalado no Rio de Janeiro, o rei português autorizou a abertura dos portos brasileiros às nações amigas, permitiu o comércio entre os brasileiros e os ingleses como medidas de destaque no âmbito econômico.
+
+Outras medidas de destaque são destacadas pelo jornalista Chico Castro:
+
+“Tomou providências, um ano após a sua chegada, para que houvesse interesse pela educação e literatura brasileiras no ensino público, abrindo vagas para professores. Instalou na Bahia uma loteria para arrecadar fundos em favor da conclusão das obras do teatro da cidade; mandou estabelecer em Pernambuco a cadeira de Cálculo Integral, Mecânica e Hidromecânica e um curso de Matemática para os estudantes de Artilharia e Engenharia da capitania; isentou do pagamento de direitos de entrada em alfândegas brasileiras de matérias-primas a serem manufaturadas em qualquer província e criou, pela primeira vez no país, um curso regular de língua inglesa na Academia Militar do Rio de Janeiro”|1|.
+
+Essas e outras medidas que foram tomadas pelo rei português demonstravam uma clara intenção de modernizar o país como parte de uma proposta que fizesse o Brasil deixar de ser apenas uma colônia portuguesa, tornando-se, de fato, parte integrante do Reino de Portugal. Isso foi confirmado quando, em 16 de dezembro de 1815, D. João VI decretou a elevação do Brasil para parte do Reino Unido.
+
+Isso, na prática, significou que o Brasil deixava de ser uma colônia e transformava-se em parte integrante do Reino português, que agora passava a ser chamado de Reino Unido de Portugal, Brasil e Algarves. Essa medida era importante para o Brasil e, segundo as historiadoras Lilia Schwarcz e Heloísa Starling, a medida tinha como objetivo principal evitar que o Brasil seguisse pelo caminho da fragmentação revolucionária – como havia acontecido na relação entre EUA e Inglaterra|2|."
+
+Veja mais sobre "Independência do Brasil" em: https://brasilescola.uol.com.br/historiab/independencia-brasil.htm
+        <br><br>
+        <img class="imagem-grande" scr="EMOJI" alt="Imagem grande">
+    </main>
+
+    <footer>
+     (rodape)   Local Citato, isto é “no lugar citado”, quando a nova citação se encontra na mesma obra e página da citação anterior.
+    </footer>
+
+</body>
+</html>
